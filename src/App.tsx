@@ -218,7 +218,7 @@ Observações: ${form.notes}`;
             </div>
             <div className="mt-8 lg:mt-0">
               <img
-                src="https://images.unsplash.com/photo-1628009368231-7bb7cf0a6250?auto=format&fit=crop&q=80"
+                src="https://imgs.search.brave.com/hZMnRdI5Wpv9rnKASseX7yxx-t1o0UBegCSlLutsIws/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wZXRj/YXJlLmNvbS5ici93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/NC90b3NzZS1kZS1j/YWNob3Jyby1vdS1j/YWNob3Jyby1lbmdh/c2dhZG8uanBn?auto=format&fit=crop&q=80"
                 alt="Veterinary team"
                 className="rounded-lg shadow-lg w-full"
               />
