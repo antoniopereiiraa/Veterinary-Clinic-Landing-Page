@@ -340,7 +340,7 @@ Observações: ${form.notes}`;
               <h3 className="text-xl font-semibold mb-2">Localização</h3>
               <p className="text-gray-600">
                 Rua das Flores, 123<br />
-                São Paulo - SP
+                Campo Maior - PI
               </p>
             </div>
           </div>
@@ -402,7 +402,7 @@ Observações: ${form.notes}`;
             </div>
           </div>
           <div className="border-t border-blue-800 mt-8 pt-8 text-center text-blue-200">
-            <p>&copy; 2024 PetCare. Todos os direitos reservados.</p>
+            <p>&copy; 2025 PetCare. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
