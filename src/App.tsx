@@ -125,7 +125,7 @@ Observações: ${form.notes}`;
       <header className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="https://imgs.search.brave.com/cySOdMdYJexvtgGBC34TBg6DilgaMB8tAW_-cAE4QZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9vcGx1cy5wdC9t/YWdhemluZS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNi92/ZXRfZ2F0b3NfMS5q/cGc?auto=format&fit=crop&q=80"
+            src="https://imgs.search.brave.com/SQHr0FHL55TG1Z8KmNZkxom4R7U2VtrRUp5LsbWM7Ow/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LXN0YXRpYy5wZXRs/b3ZlLmNvbS5ici93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/Mi9DYWNob3Jyby1j/b25zdWx0YS1QZXRs/b3ZlLmpwZw?auto=format&fit=crop&q=80"
             alt="Veterinary clinic"
             className="w-full h-full object-cover"
           />
